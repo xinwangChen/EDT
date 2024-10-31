@@ -1,1 +1,0 @@
-please download data for evaluation from https://github.com/openai/guided-diffusion/tree/main/evaluations
