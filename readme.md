@@ -1,6 +1,6 @@
 # EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching
 
-### [Paper](url-ling) | [HuggingFace space](https://huggingface.co/trenkey/EDT)
+### [Paper](https://arxiv.org/abs/2410.23788) | [HuggingFace space](https://huggingface.co/trenkey/EDT)
 
 ## Introduction
 
