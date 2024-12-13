@@ -8,6 +8,8 @@ Transformer-based Diffusion Probabilistic Models (DPMs) have shown more potentia
 
 <img width="800" alt="image" src="visual/visualization.jpg">
 
+<img width="800" alt="image" src="visual/edt_samples.jpg">
+
 ## Performance
 
 
