@@ -101,11 +101,13 @@ accelerate launch --multi_gpu --num_processes 8 train_mask_adan.py --results-dir
 # Citation
 
 ```
-@article{chen2024edt,
-  title={EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching},
-  author={Chen, Xinwang and Liu, Ning and Zhu, Yichen and Feng, Feifei and Tang, Jian},
-  journal={arXiv preprint arXiv:2410.23788},
-  year={2024}
+@inproceedings{chen2024edt,
+ title = {EDT: An Efficient Diffusion Transformer Framework Inspired by Human-like Sketching},
+ author = {Chen, Xinwang and Liu, Ning and Zhu, Yichen and Feng, Feifei and Tang, Jian},
+ booktitle = {Advances in Neural Information Processing Systems},
+ volume = {37},
+ pages = {134075--134106},
+ year = {2024}
 }
 ```
 
